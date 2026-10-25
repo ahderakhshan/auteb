@@ -16,6 +16,7 @@ render_with_liquid: false
 Diabetes detection based on machine learning and deep learning approaches
 </h2>
 
+
 </div>
 
 <div class="paper-panel paper-authors-panel">
