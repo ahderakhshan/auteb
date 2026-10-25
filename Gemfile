@@ -13,4 +13,4 @@ end
 
 gem "wdm", "~> 0.2.0", :platforms => [:windows]
 
-# gem "sass-embedded", "= 1.77.8"
+gem "sass-embedded", "= 1.77.8"
